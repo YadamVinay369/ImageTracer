@@ -1,12 +1,12 @@
 
 # Image Tracer
 
-InsightRise is a responsive single-page image search engine made using HTML, CSS, JavaScript, and Pexels API with smooth aesthetic design.
+InsightRise is a responsive single-page image search engine developed using HTML, CSS, JavaScript, and Pexels API with smooth aesthetic design.
 
 
 ## Project Description
 
-Image Tracer fetches the latest images as per the user's search query and displays it.
+Image Tracer fetches the latest images as per the user's search query and displays them.
 ## Salient Features
 1. The user can search for an image.
 2. The user can Download an image.
