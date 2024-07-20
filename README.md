@@ -6,7 +6,7 @@ InsightRise is a responsive single-page image search engine made using HTML, CSS
 
 ## Project Description
 
-Image Tracer fetches the latest images as per the user's search query and is displayed.
+Image Tracer fetches the latest images as per the user's search query and displays it.
 ## Salient Features
 1. The user can search for an image.
 2. The user can Download an image.
