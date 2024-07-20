@@ -1,15 +1,15 @@
 
 # Image Tracer
 
-InsightRise is a responsive single page image search engine made using HTML, CSS, JavaScript and Pexels API with smooth aesthetic design.
+InsightRise is a responsive single-page image search engine made using HTML, CSS, JavaScript, and Pexels API with smooth aesthetic design.
 
 
 ## Project Description
 
 Image Tracer fetches the latest images as per the user's search query and is displayed.
 ## Salient Features
-1. User can search for an image.
-2. User can Download an image.
+1. The user can search for an image.
+2. The user can Download an image.
 3. Responsive Design.
 ## Installation
 
@@ -38,14 +38,14 @@ Image Tracer fetches the latest images as per the user's search query and is dis
 
 1. Search Images:
 
-Enter a keyword in the search bar and click the search button to find latest images related to that keyword.
+    Enter a keyword in the search bar and click the search button to find the latest images related to that keyword.
 
 2. Downloading Images:
 
-Hover over the images to see the download button or click the image to see the download option on the top-right.
+    Hover over the images to see the download button or click the image to see the download option on the top-right.
 ## API usage
 
-The project uses the pexels API which is absolutely free both for running in local machine as well as for the deployement.
+The project uses the Pexels API, free to run on local machines and deployment.
 
 
 ## Contributing
@@ -53,7 +53,7 @@ The project uses the pexels API which is absolutely free both for running in loc
 Contributions are always welcome! If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository: 
-Click the "Fork" button at the top right corner of this repository.
+    Click the "Fork" button at the top right corner of this repository.
 
 2. Clone your fork:
 
